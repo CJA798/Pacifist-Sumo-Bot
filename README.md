@@ -11,7 +11,7 @@ one of the bumper sensors will be activated, giving away the location of the ene
 After the location is obtained, the robot will push in that direction until the enemy robot
 stops attacking it.
 
-The code was referenced from [here](https://www.youtube.com/watch?v=k4va1JFtzSg)
+The code and electronics were referenced from [here](https://www.youtube.com/watch?v=k4va1JFtzSg)
 
 The robot has two modes:
 * __Sonar ON__: Used for a pre-battle test required on the project specs. The robot activates the sonar, finds a target, and pushes it out of the ring.
